@@ -2,7 +2,7 @@
 
 Hello there! 👋 I'm Wahb LAHLALI AKA WhitenNight!, a passionate cybersecurity enthusiast and self-learner. Currently in my fourth year of Computer Science Engineering .
 
-## 🕸🕷️🕸 Phantom Troupe 🕷️🕸️
+## 🕷️🕸 Phantom Troupe 🕷️🕸️
 
 I proudly serve as the President and Founder of 🕷️🕸️EMSI Phantom Troupe 🕷️🕸️. A community dedicated to fostering knowledge, skills, and camaraderie in the realm of cybersecurity. Our purpose is to provide environment of work / platform for enthusiasts, beginners, and seasoned professionals alike.. Together,we aim to empower individuals on their journey into cybersecurity, offering a gamified approach that turns learning into an exciting adventure. Through interactive challenges, workshops, and collaborative projects, we strive to enhance practical skills and deepen understanding.
 
